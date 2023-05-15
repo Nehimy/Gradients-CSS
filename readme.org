@@ -1,0 +1,4 @@
+* Ejemplo de degradado
+Es un degradado de 3 colores en el body, con una textura.
+** Imagen
+[[https://i.imgur.com/ZMhw62V.png]]
